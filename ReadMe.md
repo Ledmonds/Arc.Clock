@@ -1,5 +1,5 @@
 # Introduction:
-Modern implementation of the classic Snake game written in the p5js library, created by Jaymz Edmonds: https:p5js.org/. Please clone / unpack repo, then launch index.html to begin game.
+Fancy Arc Clock that represents the time in Milliseconds, Seconds, Minutes and Hours in a full 360 Degree Arc
 
 ## Classes:
 clock.js 			Contains code relevant to iterating and drawing the arc clock.
