@@ -1,5 +1,6 @@
 # Introduction:
 Fancy Arc clock that represents the time in Milliseconds, Seconds, Minutes and Hours in a full 360 degree arc.
+
 ![Alt text](./assets/cover_image.jpg?raw=true "Clock.js")
 
 ## Classes:
