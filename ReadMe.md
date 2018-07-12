@@ -1,11 +1,11 @@
 # Introduction:
-Fancy Arc Clock that represents the time in Milliseconds, Seconds, Minutes and Hours in a full 360 Degree Arc
+Fancy Arc clock that represents the time in Milliseconds, Seconds, Minutes and Hours in a full 360 degree arc
 
 ## Classes:
-clock.js 			Contains code relevant to iterating and drawing the arc clock.
-main.js 			Main file for running clock window.
+- clock.js: Contains code relevant to iterating and drawing the arc clock.
+- main.js: Main file for running clock window.
 
 ## Other Files:
-ReadMe.md 			ReadMe file for game.
+- ReadMe.md 			ReadMe file for game.
 
 ![Alt text](./assets/cover_image.jpg?raw=true "Clock.js")
